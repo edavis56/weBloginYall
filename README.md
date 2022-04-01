@@ -88,7 +88,7 @@ Run the HTML file in the internet browser:
 
 ## Deployed application
 
-https://edavis56.github.io/weBloginYall/
+https://sweet-tech-blog.herokuapp.com/
 
 ## GitHub Repository
 
